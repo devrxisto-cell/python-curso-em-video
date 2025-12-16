@@ -1,26 +1,20 @@
-# 🐍 Python – Exercícios (Curso em Vídeo | Mundo 1 e 2)
+# 🐍 Python – Exercícios (Curso em Vídeo)
 
-Repositório com exercícios e desafios desenvolvidos durante meus estudos em Python,
+Repositório com exercícios e desafios desenvolvidos durante meus estudos em Python
 com foco em lógica de programação e fundamentos da linguagem.
 
-## 📚 Conteúdos praticados
-- Lógica de programação
+## 📚 O que foi praticado
 - Entrada e saída de dados
 - Estruturas condicionais (if / elif / else)
 - Laços de repetição (for / while)
-- Manipulação de variáveis
-- Organização de código
+- Listas e dicionários
+- Funções (nos desafios)
 
-## 📂 Estrutura
-- **Mundo 1:** Fundamentos da linguagem Python
-- **Mundo 2:** Estruturas de controle e repetição
+## 📂 Organização
+- `mundo1/` → Fundamentos da linguagem
+- `mundo2/` → Estruturas de controle
 
-## 🎯 Objetivo
-Demonstrar minha evolução prática em Python e minha base técnica
-para oportunidades como **Desenvolvedor Júnior** ou **Suporte Técnico**.
-
-## 🛠️ Tecnologias
-- Python 3
-
-## 📫 Contato
-LinkedIn: https://www.linkedin.com/in/rodrigo-padrao-ba534536b/
+## 📁 Como utilizar
+Abra os arquivos com Python 3 e execute via terminal com:
+```bash
+python nome_arquivo.py
